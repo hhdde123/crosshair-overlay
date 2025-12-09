@@ -1,0 +1,6 @@
+com\crosshair\Main.class
+com\crosshair\WindowUtils.class
+com\crosshair\MouseChecker.class
+com\crosshair\CrosshairOverlay.class
+com\crosshair\SettingsWindow.class
+com\crosshair\ConfigManager.class
